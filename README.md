@@ -1,1 +1,2 @@
-# identidock_auto v0.2 
+# identidock_auto v0. 3
+# Added automatic Jenkins build
